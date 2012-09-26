@@ -1,0 +1,28 @@
+= productivity
+
+* {Homepage}[https://github.com/jamestunnell/productivity#readme]
+* {Issues}[https://github.com/jamestunnell/productivity/issues]
+* {Documentation}[http://rubydoc.info/gems/productivity/frames]
+* {Email}[mailto:jamestunnell at lavabit.com]
+
+== Description
+
+TODO: Description
+
+== Features
+
+== Examples
+
+  require 'productivity'
+
+== Requirements
+
+== Install
+
+  $ gem install productivity
+
+== Copyright
+
+Copyright (c) 2012 James
+
+See LICENSE.txt for details.
