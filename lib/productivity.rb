@@ -1,2 +1,3 @@
 require 'productivity/version'
-require 'productivity/good'
+
+require 'productivity/core/good'
