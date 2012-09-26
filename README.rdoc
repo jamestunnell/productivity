@@ -7,7 +7,8 @@
 
 == Description
 
-TODO: Description
+Productivity provides a systematic way to approach the production of
+anything (software, hardware, ham sandwiches, etc.).
 
 == Features
 
