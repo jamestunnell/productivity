@@ -11,11 +11,11 @@ describe Productivity::Good do
     good.version.should eq("0.2")
   end
 
-  it "should build an object with the given :ancestors parameters" do
+  it "should build an object with the given :factors parameters" do
     a = Productivity::Good.new :name => "A"
     b = Productivity::Good.new :name => "B"
-    good = Productivity::Good.new :ancestors => [a,b]
-    good.ancestors.should eq([a,b])
+    good = Productivity::Good.new :factors => [a,b]
+    good.factors.should eq([a,b])
   end
 
   it "should build an object with the given :id parameter" do
@@ -28,6 +28,6 @@ describe Productivity::Good do
     good.name.should eq("")
     good.version.should eq("")
     good.id.should_not be_empty
-    good.ancestors.should be_empty
+    good.factors.should be_empty
   end
 end
