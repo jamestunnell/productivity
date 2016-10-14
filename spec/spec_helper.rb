@@ -1,4 +1,4 @@
 require 'rspec'
-require 'productivity/version'
+require 'productivity'
 
 include Productivity

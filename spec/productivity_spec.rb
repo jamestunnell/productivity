@@ -1,5 +1,4 @@
 require 'spec_helper'
-require 'productivity'
 
 describe Productivity do
   it "should have a VERSION constant" do
