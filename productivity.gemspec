@@ -7,7 +7,10 @@ Gem::Specification.new do |gem|
   gem.version       = Productivity::VERSION
   gem.summary       = "Provides a systematic way to approach the production of anything: software, hardware, ham sandwiches, etc."
   gem.description   = <<DESCRIPTION
-  TODO
+  Set up a system of production for any kind of good or outcome.
+
+  Once established, create production goals and then work backwards to derive
+  the steps needed to work towards those goals.
 DESCRIPTION
 
   gem.license       = "MIT"
